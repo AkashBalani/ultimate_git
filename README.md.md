@@ -26,3 +26,8 @@ brew install git
 4. SYSTEM - For all users
 5. GLOBAL - For all repositories of the current user
 6. LOCAL - For the current repository
+``` shell
+git config --global user.name "UserName"
+```
+7. Use the above command to set the username on the global level.
+8. 
