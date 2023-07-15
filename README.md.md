@@ -30,4 +30,3 @@ brew install git
 git config --global user.name "UserName"
 ```
 7. Use the above command to set the username on the global level.
-8. 
