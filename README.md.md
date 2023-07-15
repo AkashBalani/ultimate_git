@@ -9,12 +9,12 @@
 8. In Distributed systems we store a local copy of the project as a snapshot. If the central server is down we can synchronize our work through this.
 9. Examples include Git and Mercurial.
 
-## Using Git
+### Using Git
 1. The command line
 2. Code editors and IDE (GitLens)
 3. GUI Clients
 
-## Installing git
+### Installing git
 ``` shell
 brew install git
 ```
@@ -48,3 +48,14 @@ git config --global -e
 3. To configure these settings we must use the core.autocrlf file.
 4. For Windows users this is set to true because we want to store and retrieve CR bindings
 5. For Mac this is set to Input as we only want to store CR bindings if we input them.
+``` shell
+git config --global core.autocrlf input
+```
+6. Use this command for mac.
+``` shell
+git config -h
+```
+7. Use this command to get help for git config flags.
+
+## References
+1. [Git config](https://git-scm.com/docs/git-config)
