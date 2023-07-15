@@ -35,3 +35,16 @@ git config --global user.email Email@address.com
 git config --global core.editor "code --wait"
 ```
 8. We use the above command to set vscode as the default editor and the wait flag will wait for the vscode instance to close.
+9. To open all the global settings use the below command.
+``` shell
+git config --global -e
+```
+
+### End of Line
+1. For Windows End of Line can come in two ways 
+	1. Carriage Return (backspace + r)
+	2. Line Feed (backspace + n)
+2. But for Mac there is one way to do this which is Line Feed (LF)
+3. To configure these settings we must use the core.autocrlf file.
+4. For Windows users this is set to true because we want to store and retrieve CR bindings
+5. For Mac this is set to Input as we only want to store CR bindings if we input them.
