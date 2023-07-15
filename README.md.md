@@ -28,5 +28,6 @@ brew install git
 6. LOCAL - For the current repository
 ``` shell
 git config --global user.name "UserName"
+git config --global user.email Email@address.com
 ```
 7. Use the above command to set the username on the global level.
