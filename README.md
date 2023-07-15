@@ -10,3 +10,4 @@
 - ### [Skipping the Staging Area](MarkdownFiles/Skipping%20the%20Staging%20Area)
 - ### [Removing Files](MarkdownFiles/Removing%20Files)
 - ### [Renaming or Moving Files](MarkdownFiles/Renaming%20Or%20Moving%20Files)
+- ### [Ignoring Files](MarkdownFiles/Ignoring%20Files)
