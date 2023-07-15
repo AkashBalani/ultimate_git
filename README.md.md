@@ -8,3 +8,21 @@
 7. Single point of failure
 8. In Distributed systems we store a local copy of the project as a snapshot. If the central server is down we can synchronize our work through this.
 9. Examples include Git and Mercurial.
+
+## Using Git
+1. The command line
+2. Code editors and IDE (GitLens)
+3. GUI Clients
+
+## Installing git
+``` shell
+brew install git
+```
+
+### Configuring git
+1. These are the settings we must take care of after install git for the first time.
+2. Name, Email, Default Editor, Line Endings.
+3. We can configure these settings on three levels.
+4. SYSTEM - For all users
+5. GLOBAL - For all repositories of the current user
+6. LOCAL - For the current repository
