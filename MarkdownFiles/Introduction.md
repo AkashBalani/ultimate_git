@@ -40,6 +40,7 @@ git config --global core.editor "code --wait"
 git config --global -e
 ```
 
+
 ### End of Line
 1. For Windows End of Line can come in two ways 
 	1. Carriage Return (backspace + r)
