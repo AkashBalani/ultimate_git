@@ -31,4 +31,7 @@ git config --global user.name "UserName"
 git config --global user.email Email@address.com
 ```
 7. Use the above command to set the username on the global level.
-8. 
+``` shell
+git config --global core.editor "code --wait"
+```
+8. We use the above command to set vscode as the default editor and the wait flag will wait for the vscode instance to close.
