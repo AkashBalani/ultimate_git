@@ -21,3 +21,5 @@
 - ### [Restoring to Earlier State](MarkdownFiles/CreatingSnapshots/Restoring%20to%20Earlier%20State.md)
 - ### [Creating Snapshots in VSCode](MarkdownFiles/CreatingSnapshots/Creating%20Snapshots%20in%20VSCode.md)
 - ### [Creating Snapshots in GitKraken](MarkdownFiles/CreatingSnapshots/Creating%20Snapshots%20in%20GitKraken.md)
+
+## [Browsing History](MarkdownFiles/BrowsingHistory/Introduction.md)
