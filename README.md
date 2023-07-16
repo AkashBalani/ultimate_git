@@ -27,3 +27,4 @@
 - ### [Viewing the History](MarkdownFiles/BrowsingHistory/ViewingHistory.md)
 - ### [Filtering the History](MarkdownFiles/BrowsingHistory/FilteringHistory.md)
 - ### [Formatting the Log Output](MarkdownFiles/BrowsingHistory/FormattingOutput.md)
+- ### [Aliases](MarkdownFiles/BrowsingHistory/Aliases.md)
