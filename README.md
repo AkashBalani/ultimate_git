@@ -12,3 +12,4 @@
 - ### [Renaming or Moving Files](MarkdownFiles/Renaming%20Or%20Moving%20Files)
 - ### [Ignoring Files](MarkdownFiles/Ignoring%20Files)
 - ### [Short Status](MarkdownFiles/Short%20Status)
+- ### [Viewing the Staged and Unstaged Changes](MarkdownFiles/Viewing%the%20Staged%20and%20Unstaged%20Changes)
