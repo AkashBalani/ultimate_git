@@ -25,3 +25,10 @@ git difftool
 xcode-select: error: tool 'opendiff' requires Xcode, but active developer directory '/Library/Developer/CommandLineTools' is a command line tools instance
 ```
 9. What this means is that xcode is not set properly in the system, install or update it.
+10. Use this [Reference](https://stackoverflow.com/questions/17980759/xcode-select-active-developer-directory-error) if you face the same issue.
+11. Similarly, if you want to check the staged difference use this command.
+``` shell
+git difftool --staged
+```
+12. Note that difftool will show the files one after the other and you either have to take an action for each file or close it.
+13. Nowadays, most of the IDEs have built in stage and local repo changes so we might not really need it.
