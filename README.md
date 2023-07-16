@@ -13,3 +13,4 @@
 - ### [Ignoring Files](MarkdownFiles/Ignoring%20Files)
 - ### [Short Status](MarkdownFiles/Short%20Status)
 - ### [Viewing the Staged and Unstaged Changes](MarkdownFiles/Viewing%the%20Staged%20and%20Unstaged%20Changes)
+- ### [Visual Diff Tools](MarkdownFiles/Visual%20Diff%20Tools)
