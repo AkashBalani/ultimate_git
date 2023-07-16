@@ -1,0 +1,1 @@
+1. GitKraken works like GitHub's Desktop client.
