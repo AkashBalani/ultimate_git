@@ -28,3 +28,4 @@
 - ### [Filtering the History](MarkdownFiles/BrowsingHistory/FilteringHistory.md)
 - ### [Formatting the Log Output](MarkdownFiles/BrowsingHistory/FormattingOutput.md)
 - ### [Aliases](MarkdownFiles/BrowsingHistory/Aliases.md)
+- ### [Viewing a Commit](MarkdownFiles/BrowsingHistory/ViewingCommit.md)
