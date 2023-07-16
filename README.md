@@ -25,3 +25,4 @@
 ## [Browsing History](MarkdownFiles/BrowsingHistory/Introduction.md)
 - ### [Getting a Repository](MarkdownFiles/BrowsingHistory/Getting%20Repository.md)
 - ### [Viewing the History](MarkdownFiles/BrowsingHistory/ViewingHistory.md)
+- ### [Filtering the History](MarkdownFiles/BrowsingHistory/FilteringHistory.md)
