@@ -16,4 +16,5 @@
 - ### [Visual Diff Tools](MarkdownFiles/Visual%20Diff%20Tools.md)
 - ### [Viewing the History](MarkdownFiles/Viewing%20the%20History.md)
 - ### [Viewing a Commit](MarkdownFiles/Viewing%20a%20Commit.md)
-- ### [Unstaging Files](MarkdownFiles/Unstaging%Files.md)
+- ### [Unstaging Files](MarkdownFiles/Unstaging%20Files.md)
+- ### [Discarding Local Changes](MarkdownFiles/Discarding%20Local%20Changes.md)
