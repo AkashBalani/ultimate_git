@@ -29,3 +29,4 @@
 - ### [Formatting the Log Output](MarkdownFiles/BrowsingHistory/FormattingOutput.md)
 - ### [Aliases](MarkdownFiles/BrowsingHistory/Aliases.md)
 - ### [Viewing a Commit](MarkdownFiles/BrowsingHistory/ViewingCommit.md)
+- ### [Viewing the Changes Across Commits](MarkdownFiles/BrowsingHistory/ViewingAcrossCommits.md)
