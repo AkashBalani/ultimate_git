@@ -23,3 +23,5 @@
 - ### [Creating Snapshots in GitKraken](MarkdownFiles/CreatingSnapshots/Creating%20Snapshots%20in%20GitKraken.md)
 
 ## [Browsing History](MarkdownFiles/BrowsingHistory/Introduction.md)
+- ### [Getting a Repository](MarkdownFiles/BrowsingHistory/Getting%20Repository.md)
+- ### [Viewing the History](MarkdownFiles/BrowsingHistory/ViewingHistory.md)
