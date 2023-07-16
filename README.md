@@ -18,3 +18,4 @@
 - ### [Viewing a Commit](MarkdownFiles/Viewing%20a%20Commit.md)
 - ### [Unstaging Files](MarkdownFiles/Unstaging%20Files.md)
 - ### [Discarding Local Changes](MarkdownFiles/Discarding%20Local%20Changes.md)
+- ### [Restoring to Earlier State](MarkdownFiles/Restoring%20to%20Earlier%20State.md)
