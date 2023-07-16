@@ -11,3 +11,4 @@
 - ### [Removing Files](MarkdownFiles/Removing%20Files)
 - ### [Renaming or Moving Files](MarkdownFiles/Renaming%20Or%20Moving%20Files)
 - ### [Ignoring Files](MarkdownFiles/Ignoring%20Files)
+- ### [Short Status](MarkdownFiles/Short%20Status)
