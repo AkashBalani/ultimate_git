@@ -19,3 +19,4 @@
 - ### [Unstaging Files](MarkdownFiles/Unstaging%20Files.md)
 - ### [Discarding Local Changes](MarkdownFiles/Discarding%20Local%20Changes.md)
 - ### [Restoring to Earlier State](MarkdownFiles/Restoring%20to%20Earlier%20State.md)
+- ### [Creating Snapshots in VSCode](MarkdownFiles/Creating%20Snapshots%20in%20VSCode.md)
