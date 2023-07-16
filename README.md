@@ -14,4 +14,5 @@
 - ### [Short Status](MarkdownFiles/Short%20Status)
 - ### [Viewing the Staged and Unstaged Changes](MarkdownFiles/Viewing%the%20Staged%20and%20Unstaged%20Changes.md)
 - ### [Visual Diff Tools](MarkdownFiles/Visual%20Diff%20Tools.md)
-- ### [Viewing the History](MarkdownFiles/Viewing%the%History.md)
+- ### [Viewing the History](MarkdownFiles/Viewing%20the%20History.md)
+- ### [Viewing a Commit](MarkdownFiles/Viewing%20a%20Commit.md)
