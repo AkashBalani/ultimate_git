@@ -39,3 +39,4 @@
 - ### [Blaming](MarkdownFiles/BrowsingHistory/Blaming.md)
 - ### [Tagging](MarkdownFiles/BrowsingHistory/Tagging.md)
 - ### [Browsing History Using VSCode](MarkdownFiles/BrowsingHistory/HistoryVSCode.md)
+- ### [Browsing History Using GitKraken](MarkdownFiles/BrowsingHistory/HistoryGitKraken.md)
