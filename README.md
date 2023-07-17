@@ -33,3 +33,4 @@
 - ### [Checking Out a Commit](MarkdownFiles/BrowsingHistory/CheckingoutCommit.md)
 
 - ### [Finding Bugs Using Bisect](MarkdownFiles/BrowsingHistory/FindingBugs.md)
+- ### [Finding Contributiors Using Shortlog](MarkdownFiles/BrowsingHistory/FindingContributors.md)
