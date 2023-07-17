@@ -31,3 +31,5 @@
 - ### [Viewing a Commit](MarkdownFiles/BrowsingHistory/ViewingCommit.md)
 - ### [Viewing the Changes Across Commits](MarkdownFiles/BrowsingHistory/ViewingAcrossCommits.md)
 - ### [Checking Out a Commit](MarkdownFiles/BrowsingHistory/CheckingoutCommit.md)
+
+- ### [Finding Bugs Using Bisect](MarkdownFiles/BrowsingHistory/FindingBugs.md)
