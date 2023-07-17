@@ -38,3 +38,4 @@
 - ### [Restoring a Deleted File](MarkdownFiles/BrowsingHistory/RestoreDeletedFile.md)
 - ### [Blaming](MarkdownFiles/BrowsingHistory/Blaming.md)
 - ### [Tagging](MarkdownFiles/BrowsingHistory/Tagging.md)
+- ### [Browsing History Using VSCode](MarkdownFiles/BrowsingHistory/HistoryVSCode.md)
