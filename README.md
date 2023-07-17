@@ -37,3 +37,4 @@
 - ### [Viewing the History of a File](MarkdownFiles/BrowsingHistory/ViewFileHistory.md)
 - ### [Restoring a Deleted File](MarkdownFiles/BrowsingHistory/RestoreDeletedFile.md)
 - ### [Blaming](MarkdownFiles/BrowsingHistory/Blaming.md)
+- ### [Tagging](MarkdownFiles/BrowsingHistory/Tagging.md)
