@@ -35,3 +35,4 @@
 - ### [Finding Bugs Using Bisect](MarkdownFiles/BrowsingHistory/FindingBugs.md)
 - ### [Finding Contributiors Using Shortlog](MarkdownFiles/BrowsingHistory/FindingContributors.md)
 - ### [Viewing the History of a File](MarkdownFiles/BrowsingHistory/ViewFileHistory.md)
+- ### [Restoring a Deleted File](MarkdownFiles/BrowsingHistory/RestoreDeletedFile.md)
