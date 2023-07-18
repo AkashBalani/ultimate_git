@@ -44,3 +44,4 @@
 - ### [What are Branches?](MarkdownFiles/Branching/Branches.md)
 - ### [Working with Branches](MarkdownFiles/Branching/WorkingBranches.md)
 - ### [Comparing Branches](MarkdownFiles/Branching/ComparingBranches.md)
+- ### [Stashing](MarkdownFiles/Branching/Stashing.md)
