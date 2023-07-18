@@ -41,3 +41,4 @@
 - ### [Browsing History Using GitKraken](MarkdownFiles/BrowsingHistory/HistoryGitKraken.md)
 
 ## [Branching](MarkdownFiles/Branching/Introduction.md)
+- ### [What are Branches?](MarkdownFiles/Branching/Branches.md)
