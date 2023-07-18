@@ -45,3 +45,4 @@
 - ### [Working with Branches](MarkdownFiles/Branching/WorkingBranches.md)
 - ### [Comparing Branches](MarkdownFiles/Branching/ComparingBranches.md)
 - ### [Stashing](MarkdownFiles/Branching/Stashing.md)
+- ### [Merging](MarkdownFiles/Branching/Merging.md)
