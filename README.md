@@ -49,3 +49,4 @@
 - ### [Fast-foward Merges](MarkdownFiles/Branching/FastForward.md)
 - ### [3-way Merges](MarkdownFiles/Branching/ThreeWayMerges.md)
 - ### [Viewing the Merged Branches](MarkdownFiles/Branching/ViewMergedBranches.md)
+- ### [Merge Conflicts](MarkdownFiles/Branching/MergeConflicts.md)
