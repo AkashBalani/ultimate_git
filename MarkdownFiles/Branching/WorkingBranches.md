@@ -13,6 +13,9 @@ git status
 git switch bugfix
 # Switchs the current working directory to track 'bugfix' branch/pointer.
 
+git switch -C bugfix/login-form
+# Creates a new branch bugfix/login-form and switchs to it.
+
 git branch -m bugfix bugfix/signup-form
 # Changes the branch name from bugfix to bugfix/signup-form
 ```
