@@ -46,3 +46,4 @@
 - ### [Comparing Branches](MarkdownFiles/Branching/ComparingBranches.md)
 - ### [Stashing](MarkdownFiles/Branching/Stashing.md)
 - ### [Merging](MarkdownFiles/Branching/Merging.md)
+- ### [Fast-foward Merges](MarkdownFiles/Branching/FastForward.md)
