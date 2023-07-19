@@ -55,3 +55,4 @@
 - ### [Undoing a Faulty Merge](MarkdownFiles/Branching/FaultyMerge.md)
 - ### [Squash Merging](MarkdownFiles/Branching/SquashMerge.md)
 - ### [Rebasing](MarkdownFiles/Branching/Rebasing.md)
+- ### [Cherry Picking](MarkdownFiles/Branching/CherryPicking.md)
