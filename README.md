@@ -63,3 +63,7 @@
 ### [Collaboration](MarkdownFiles/Collaboration/Introduction.md)
 - #### [Workflows](MarkdownFiles/Collaboration/Workflows.md)
 - #### [Creating a Github Repository](MarkdownFiles/Collaboration/GithubRepo.md)
+- #### [Adding Collaborators](MarkdownFiles/Collaboration/AddingCollaborators.md)
+- #### [Cloning a Repository](MarkdownFiles/Collaboration/CloningRepository.md)
+- #### [Fetching](MarkdownFiles/Collaboration/Fetching.md)
+- #### [Pulling](MarkdownFiles/Collaboration/Pulling.md)
