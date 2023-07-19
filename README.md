@@ -51,3 +51,4 @@
 - ### [Viewing the Merged Branches](MarkdownFiles/Branching/ViewMergedBranches.md)
 - ### [Merge Conflicts](MarkdownFiles/Branching/MergeConflicts.md)
 - ### [Graphical Merge Tools](MarkdownFiles/Branching/VisualTools.md)
+- ### [Aborting a Merge](MarkdownFiles/Branching/AbortMerge.md)
