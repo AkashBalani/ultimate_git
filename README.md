@@ -58,3 +58,4 @@
 - ### [Cherry Picking](MarkdownFiles/Branching/CherryPicking.md)
 - ### [Picking Files from Another Branch](MarkdownFiles/Branching/FilesOtherBranch.md)
 - ### [Working with Branches in VSCode](MarkdownFiles/Branching/BranchesVSCode.md)
+- ### [Working with Branches in GitKraken](MarkdownFiles/Branching/BranchesGitKraken.md)
