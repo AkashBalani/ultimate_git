@@ -57,3 +57,4 @@
 - ### [Rebasing](MarkdownFiles/Branching/Rebasing.md)
 - ### [Cherry Picking](MarkdownFiles/Branching/CherryPicking.md)
 - ### [Picking Files from Another Branch](MarkdownFiles/Branching/FilesOtherBranch.md)
+- ### [Working with Branches in VSCode](MarkdownFiles/Branching/BranchesVSCode.md)
