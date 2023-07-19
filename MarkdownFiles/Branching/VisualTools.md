@@ -18,3 +18,8 @@ git config --global mergetool.p4merge.path "/Applications/p4merge.app/Contents/M
 git mergetool
 # This would open up p4merge.
 ```
+6. p4merge might create artifacts with .orig extension for original backups. Usually they are created during the merge process.
+7. If you want the merge tool not to keep backups you can type the following command.
+``` shell
+git config --global mergetool.keepBackup false
+```
