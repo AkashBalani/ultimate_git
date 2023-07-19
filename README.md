@@ -61,3 +61,4 @@
 - #### [Working with Branches in GitKraken](MarkdownFiles/Branching/BranchesGitKraken.md)
 
 ### [Collaboration](MarkdownFiles/Collaboration/Introduction.md)
+- #### [Workflows](MarkdownFiles/Collaboration/Workflows.md)
