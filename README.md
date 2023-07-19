@@ -53,3 +53,4 @@
 - ### [Graphical Merge Tools](MarkdownFiles/Branching/VisualTools.md)
 - ### [Aborting a Merge](MarkdownFiles/Branching/AbortMerge.md)
 - ### [Undoing a Faulty Merge](MarkdownFiles/Branching/FaultyMerge.md)
+- ### [Squash Merging](MarkdownFiles/Branching/SquashMerge.md)
