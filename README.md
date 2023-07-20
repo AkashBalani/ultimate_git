@@ -80,3 +80,4 @@
 - #### [GitHub Milestones](MarkdownFiles/Collaboration/Milestones.md)
 - #### [Contributing to an Open-Source Project](MarkdownFiles/Collaboration/OpenSource.md)
 - #### [Keeping a Fork Up to Date](MarkdownFiles/Collaboration/ForkedRepo.md)
+- #### [Collaboration Using VSCode](MarkdownFiles/Collaboration/CollabVSCode.md)
