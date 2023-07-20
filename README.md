@@ -67,3 +67,4 @@
 - #### [Cloning a Repository](MarkdownFiles/Collaboration/CloningRepository.md)
 - #### [Fetching](MarkdownFiles/Collaboration/Fetching.md)
 - #### [Pulling](MarkdownFiles/Collaboration/Pulling.md)
+- #### [Pushing](MarkdownFiles/Collaboration/Pushing.md)
