@@ -72,3 +72,4 @@
 - ##### [Sharing Tags](MarkdownFiles/Collaboration/SharingTags.md)
 - ##### [Releases](MarkdownFiles/Collaboration/Releases.md)
 - ##### [Sharing Branches](MarkdownFiles/Collaboration/SharingBranches.md)
+- ##### [Collaboration Workflow](MarkdownFiles/Collaboration/CollabWorkflow.md)
