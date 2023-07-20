@@ -78,3 +78,4 @@
 - #### [GitHub Issues](MarkdownFiles/Collaboration/Issues.md)
 - #### [GitHub Label](MarkdownFiles/Collaboration/Labels.md)
 - #### [GitHub Milestones](MarkdownFiles/Collaboration/Milestones.md)
+- #### [Contributing to an Open-Source Project](MarkdownFiles/Collaboration/OpenSource.md)
