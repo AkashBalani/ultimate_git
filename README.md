@@ -75,3 +75,4 @@
 - ##### [Collaboration Workflow](MarkdownFiles/Collaboration/CollabWorkflow.md)
 - ##### [Pull Requests](MarkdownFiles/Collaboration/PullRequest.md)
 - ##### [Resolving Conflicts](MarkdownFiles/Collaboration/ResolvingConflicts.md)
+- ##### [GitHub Issues](MarkdownFiles/Collaboration/Issues.md)
