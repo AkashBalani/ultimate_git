@@ -69,3 +69,4 @@
 - ##### [Pulling](MarkdownFiles/Collaboration/Pulling.md)
 - ##### [Pushing](MarkdownFiles/Collaboration/Pushing.md)
 - ##### [Storing Credentials](MarkdownFiles/Collaboration/StoringCredentials.md)
+- ##### [Sharing Tags](MarkdownFiles/Collaboration/SharingTags.md)
