@@ -12,7 +12,7 @@
 - #### [Renaming or Moving Files](MarkdownFiles/CreatingSnapshots/Renaming%20Or%20Moving%20Files.md)
 - #### [Ignoring Files](MarkdownFiles/CreatingSnapshots/Ignoring%20Files.md)
 - #### [Short Status](MarkdownFiles/CreatingSnapshots/Short%20Status)
-- #### [Viewing the Staged and Unstaged Changes](MarkdownFiles/CreatingSnapshots/Viewing%the%20Staged%20and%20Unstaged%20Changes.md)
+- #### [Viewing the Staged and Unstaged Changes](MarkdownFiles/CreatingSnapshots/Viewing%20the%20Staged%20and%20Unstaged%20Changes.md)
 - #### [Visual Diff Tools](MarkdownFiles/CreatingSnapshots/Visual%20Diff%20Tools.md)
 - #### [Viewing the History](MarkdownFiles/CreatingSnapshots/Viewing%20the%20History.md)
 - #### [Viewing a Commit](MarkdownFiles/CreatingSnapshots/Viewing%20a%20Commit.md)
