@@ -71,3 +71,4 @@
 - ##### [Storing Credentials](MarkdownFiles/Collaboration/StoringCredentials.md)
 - ##### [Sharing Tags](MarkdownFiles/Collaboration/SharingTags.md)
 - ##### [Releases](MarkdownFiles/Collaboration/Releases.md)
+- ##### [Sharing Branches](MarkdownFiles/Collaboration/SharingBranches.md)
