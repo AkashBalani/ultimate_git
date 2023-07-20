@@ -76,3 +76,4 @@
 - ##### [Pull Requests](MarkdownFiles/Collaboration/PullRequest.md)
 - ##### [Resolving Conflicts](MarkdownFiles/Collaboration/ResolvingConflicts.md)
 - ##### [GitHub Issues](MarkdownFiles/Collaboration/Issues.md)
+- ##### [GitHub Label](MarkdownFiles/Collaboration/Labels.md)
