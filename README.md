@@ -77,3 +77,4 @@
 - ##### [Resolving Conflicts](MarkdownFiles/Collaboration/ResolvingConflicts.md)
 - ##### [GitHub Issues](MarkdownFiles/Collaboration/Issues.md)
 - ##### [GitHub Label](MarkdownFiles/Collaboration/Labels.md)
+- ##### [GitHub Milestones](MarkdownFiles/Collaboration/Milestones.md)
