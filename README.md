@@ -93,3 +93,4 @@
 - #### [Example of a Bad History](MarkdownFiles/RewritingHistory/BadHistoryExample.md)
 
 - #### [Undoing Commits](MarkdownFiles/RewritingHistory/UndoCommit.md)
+- #### [Reverting Commits](MarkdownFiles/RewritingHistory/RevertingCommits.md)
