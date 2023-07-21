@@ -8,11 +8,11 @@ cd ..
 
 mkdir John
 cd John
-git clone <URL of repository>
+git clone https://github.com/<UserName>/Tokyo.git
 
 mkdir Amy
 cd Amy
-git clone <URL of repository>
+git clone https://github.com/<UserName>/Tokyo.git
 
 # 3. Go to John's folder and make a commit. To save yourself from the hassle
 # of re-entering your credentials every time you do a push, store your credentials
@@ -60,4 +60,18 @@ git log --oneline --all --graph
 git remote add upstream <URL of repo with branch>
 git branch --all
 git remote -v
+
+# 8. Go back to Amy's folder, make another commit on the feature branch and do a push.
+cd ..
+cd Amy/
+git switch feature/login
+echo ! >> file1.txt
+git commit -am "Modify file1.txt"
+git push
+
+# 9. Back to Jon's folder, pull Amy's changes into the feature branch. View the
+# history. The feature branch should be two commits ahead of master.
+cd ..
+cd John/
+git pull upstream feature/login
 
