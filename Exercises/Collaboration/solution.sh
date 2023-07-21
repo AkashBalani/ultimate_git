@@ -19,11 +19,13 @@ git clone https://github.com/<UserName>/Tokyo.git
 # in memory, Now, do a push.
 cd ..
 
-cd John/
+cd John/Tokyo
 echo Hello > file1.txt
-git commit -am "Create file1.txt"
+git add file1.txt
+git commit -m "Create file1.txt"
 
 git config --global credential.helper cache
+git push 
 
 # 4. Go to Amy's folder, and fetch the new commit. View the history and
 # see how the remote master branch has moved forward. merge origin/master into
@@ -32,8 +34,8 @@ cd ..
 
 cd Amy/
 git log --oneline --all --graph
-git pull
-git merge origin/master into master
+git fetch
+git merge origin/main
 
 # 5. From Amy's folder, create a new branch called feature/login. Make a commit
 # on this branch. Once again, you need to configure Git to store your credentials
@@ -44,7 +46,8 @@ git branch -C feature/login
 echo World >> file1.txt
 git config --global credential.helper cache
 git switch master
-git push -u feature/login
+git commit -am "Modify file1.txt"
+git push https://github.com/<UserName>/Tokyo.git feature/login
 
 # 6. View the local and remote branches
 git branch --all
