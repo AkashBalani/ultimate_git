@@ -82,3 +82,5 @@
 - #### [Keeping a Fork Up to Date](MarkdownFiles/Collaboration/ForkedRepo.md)
 - #### [Collaboration Using VSCode](MarkdownFiles/Collaboration/CollabVSCode.md)
 - #### [Collaboration Using GitKraken](MarkdownFiles/Collaboration/CollabGitKraken.md)
+
+#### [Rewriting History](MarkdownFiles/RewritingHistory/Introduction.md)
