@@ -97,3 +97,5 @@
 - #### [Recovering Lost Commits](MarkdownFiles/RewritingHistory/RecoverCommits.md)
 - #### [Amending the Last Commit](MarkdownFiles/RewritingHistory/AmmendCommit.md)
 - #### [Amending an Earlier Commit](MarkdownFiles/RewritingHistory/AmmendEarlyCommit.md)
+
+- #### [Dropping Commits](MarkdownFiles/RewritingHistory/DroppingCommits.md)
