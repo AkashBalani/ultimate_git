@@ -61,7 +61,7 @@ git fetch
 
 git log --oneline --all --graph
 
-git remote add upstream <URL of repo with branch>
+git switch -c feature/login origin/feature/login
 git branch --all
 git remote -v
 
@@ -77,5 +77,33 @@ git push
 # history. The feature branch should be two commits ahead of master.
 cd ..
 cd John/
+git switch feature/login
 git pull
 
+# 10. Merge the feature branch into master. View the history. Note that master
+# is ahead of origin/master by two commits. So now you need to do a push to 
+# bring origin/master forward. View the history again to make sure master and
+# origin/master are at the same place.
+git switch master
+git merge feature/login master
+git log --oneline --all --graph
+git push
+
+# 11. You're done with the feature branch. So it's time to remove it. Now, view
+# the local and remote branches. The remote tracking branch is gone, but the local
+# branch is still there and should be removed.
+git push -d origin feature/login
+git branch -d feature/login
+
+# 12. Go to Amy's folder. Do a fetch. View the history. Note that origin/master has
+# moved forward and is ahead of master by two commits. Switch to master and merge origin/master
+# into it. View the history to ensure master and origin/master are at the same location.
+cd Amy/Tokyo
+git fetch
+git log --oneline --all -graph
+git switch main
+git merge main origin/main
+git log --oneline --all -graph
+
+# 13. It's time to remove the local and remote-tracking branches.
+git branch -d feature/login
