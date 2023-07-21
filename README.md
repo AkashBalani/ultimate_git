@@ -91,3 +91,5 @@
 
 - #### [The Golden Rule of Rewriting History](MarkdownFiles/RewritingHistory/GoldenRule.md)
 - #### [Example of a Bad History](MarkdownFiles/RewritingHistory/BadHistoryExample.md)
+
+- #### [Undoing Commits](MarkdownFiles/RewritingHistory/UndoCommit.md)
