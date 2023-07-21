@@ -90,4 +90,4 @@
 #### [Rewriting History](MarkdownFiles/RewritingHistory/Introduction.md)
 
 - #### [The Golden Rule of Rewriting History](MarkdownFiles/RewritingHistory/GoldenRule.md)
-  v
+- #### [Example of a Bad History](MarkdownFiles/RewritingHistory/BadHistoryExample.md)
