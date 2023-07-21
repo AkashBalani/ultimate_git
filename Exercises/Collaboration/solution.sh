@@ -47,19 +47,20 @@ echo World >> file1.txt
 git config --global credential.helper cache
 git switch master
 git commit -am "Modify file1.txt"
-git push https://github.com/<UserName>/Tokyo.git feature/login
+git push -u https://github.com/<UserName>/Tokyo.git feature/login
 
 # 6. View the local and remote branches
 git branch --all
-git remote -vv
 
 # 7. Go to John's folder and do a fetch. View the history. Note the new branch
 # Create a local branch and map it to origin/feature/login. View the local and
 # remote branches again to make sure your branches are set up properly.
 cd ..
 cd John/
-git fetch origin
+git fetch
+
 git log --oneline --all --graph
+
 git remote add upstream <URL of repo with branch>
 git branch --all
 git remote -v
@@ -76,5 +77,5 @@ git push
 # history. The feature branch should be two commits ahead of master.
 cd ..
 cd John/
-git pull upstream feature/login
+git pull
 
