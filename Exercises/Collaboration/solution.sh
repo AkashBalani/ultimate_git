@@ -35,3 +35,29 @@ git log --oneline --all --graph
 git pull
 git merge origin/master into master
 
+# 5. From Amy's folder, create a new branch called feature/login. Make a commit
+# on this branch. Once again, you need to configure Git to store your credentials
+# in memory because you're in a different repository. The configuration we made
+# earlier only applies to John's repository. Now do a push
+
+git branch -C feature/login
+echo World >> file1.txt
+git config --global credential.helper cache
+git switch master
+git push -u feature/login
+
+# 6. View the local and remote branches
+git branch --all
+git remote -vv
+
+# 7. Go to John's folder and do a fetch. View the history. Note the new branch
+# Create a local branch and map it to origin/feature/login. View the local and
+# remote branches again to make sure your branches are set up properly.
+cd ..
+cd John/
+git fetch origin
+git log --oneline --all --graph
+git remote add upstream <URL of repo with branch>
+git branch --all
+git remote -v
+
