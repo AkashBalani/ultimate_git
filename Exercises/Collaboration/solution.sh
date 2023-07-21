@@ -42,15 +42,16 @@ git merge origin/main
 # in memory because you're in a different repository. The configuration we made
 # earlier only applies to John's repository. Now do a push
 
-git branch -C feature/login
+git switch -C feature/login
 echo World >> file1.txt
 git config --global credential.helper cache
-git switch master
 git commit -am "Modify file1.txt"
 git push -u https://github.com/<UserName>/Tokyo.git feature/login
 
 # 6. View the local and remote branches
 git branch --all
+git branch -vv
+git branch -r
 
 # 7. Go to John's folder and do a fetch. View the history. Note the new branch
 # Create a local branch and map it to origin/feature/login. View the local and
@@ -63,6 +64,7 @@ git log --oneline --all --graph
 
 git switch -c feature/login origin/feature/login
 git branch --all
+git branch -vv
 git remote -v
 
 # 8. Go back to Amy's folder, make another commit on the feature branch and do a push.
@@ -93,6 +95,7 @@ git push
 # the local and remote branches. The remote tracking branch is gone, but the local
 # branch is still there and should be removed.
 git push -d origin feature/login
+git branch -vv
 git branch -d feature/login
 
 # 12. Go to Amy's folder. Do a fetch. View the history. Note that origin/master has
@@ -106,4 +109,5 @@ git merge main origin/main
 git log --oneline --all -graph
 
 # 13. It's time to remove the local and remote-tracking branches.
+git remote prune oigin
 git branch -d feature/login
