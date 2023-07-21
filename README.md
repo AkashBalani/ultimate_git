@@ -101,3 +101,4 @@
 - #### [Dropping Commits](MarkdownFiles/RewritingHistory/DroppingCommits.md)
 - #### [Rewording Commit Messages](MarkdownFiles/RewritingHistory/RewordingCommit.md)
 - #### [Re-ordering Commits](MarkdownFiles/RewritingHistory/ReorderHistory.md)
+- #### [Squashing Commits](MarkdownFiles/RewritingHistory/SquashingCommits.md)
