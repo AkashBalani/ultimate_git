@@ -103,3 +103,4 @@
 - #### [Re-ordering Commits](MarkdownFiles/RewritingHistory/ReorderHistory.md)
 - #### [Squashing Commits](MarkdownFiles/RewritingHistory/SquashingCommits.md)
 - #### [Splitting a Commit](MarkdownFiles/RewritingHistory/SplitCommit.md)
+- #### [Rewriting History Using GitKraken](MarkdownFiles/RewritingHistory/HistoryGitKraken.md)
