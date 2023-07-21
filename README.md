@@ -99,3 +99,4 @@
 - #### [Amending an Earlier Commit](MarkdownFiles/RewritingHistory/AmmendEarlyCommit.md)
 
 - #### [Dropping Commits](MarkdownFiles/RewritingHistory/DroppingCommits.md)
+- #### [Rewording Commit Messages](MarkdownFiles/RewritingHistory/RewordingCommit.md)
