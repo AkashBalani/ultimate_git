@@ -102,3 +102,4 @@
 - #### [Rewording Commit Messages](MarkdownFiles/RewritingHistory/RewordingCommit.md)
 - #### [Re-ordering Commits](MarkdownFiles/RewritingHistory/ReorderHistory.md)
 - #### [Squashing Commits](MarkdownFiles/RewritingHistory/SquashingCommits.md)
+- #### [Splitting a Commit](MarkdownFiles/RewritingHistory/SplitCommit.md)
