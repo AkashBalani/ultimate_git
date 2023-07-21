@@ -1,5 +1,6 @@
 1. If the commit has already been pushed to the remote then we have to assume that people have started to work on it.
 2. In such a case we can use the revert command which you create another commit which undos our work.
+3. More about [[RevertingCommits |reverting]] in there.
 ``` shell
 git revert HEAD~1
 ```
