@@ -94,3 +94,4 @@
 
 - #### [Undoing Commits](MarkdownFiles/RewritingHistory/UndoCommit.md)
 - #### [Reverting Commits](MarkdownFiles/RewritingHistory/RevertingCommits.md)
+- #### [Recovering Lost Commits](MarkdownFiles/RewritingHistory/RecoverCommits.md)
