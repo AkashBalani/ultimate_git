@@ -3,6 +3,7 @@
 #### [Introduction](MarkdownFiles/Introduction.md)
 
 #### [Creating Snapshots](MarkdownFiles/CreatingSnapshots/Creating%20Snapshots.md)
+
 - #### [Git Workflow](MarkdownFiles/CreatingSnapshots/Git%20Workflow.md)
 - #### [Staging Files](MarkdownFiles/CreatingSnapshots/Staging%20Files.md)
 - #### [Committing Changes](MarkdownFiles/CreatingSnapshots/Committing%20Changes.md)
@@ -23,6 +24,7 @@
 - #### [Creating Snapshots in GitKraken](MarkdownFiles/CreatingSnapshots/Creating%20Snapshots%20in%20GitKraken.md)
 
 #### [Browsing History](MarkdownFiles/BrowsingHistory/Introduction.md)
+
 - #### [Getting a Repository](MarkdownFiles/BrowsingHistory/Getting%20Repository.md)
 - #### [Viewing the History](MarkdownFiles/BrowsingHistory/ViewingHistory.md)
 - #### [Filtering the History](MarkdownFiles/BrowsingHistory/FilteringHistory.md)
@@ -41,6 +43,7 @@
 - #### [Browsing History Using GitKraken](MarkdownFiles/BrowsingHistory/HistoryGitKraken.md)
 
 #### [Branching](MarkdownFiles/Branching/Introduction.md)
+
 - #### [What are Branches?](MarkdownFiles/Branching/Branches.md)
 - #### [Working with Branches](MarkdownFiles/Branching/WorkingBranches.md)
 - #### [Comparing Branches](MarkdownFiles/Branching/ComparingBranches.md)
@@ -61,6 +64,7 @@
 - #### [Working with Branches in GitKraken](MarkdownFiles/Branching/BranchesGitKraken.md)
 
 #### [Collaboration](MarkdownFiles/Collaboration/Introduction.md)
+
 - #### [Workflows](MarkdownFiles/Collaboration/Workflows.md)
 - #### [Creating a Github Repository](MarkdownFiles/Collaboration/GithubRepo.md)
 - #### [Adding Collaborators](MarkdownFiles/Collaboration/AddingCollaborators.md)
@@ -84,3 +88,6 @@
 - #### [Collaboration Using GitKraken](MarkdownFiles/Collaboration/CollabGitKraken.md)
 
 #### [Rewriting History](MarkdownFiles/RewritingHistory/Introduction.md)
+
+- #### [The Golden Rule of Rewriting History](MarkdownFiles/RewritingHistory/GoldenRule.md)
+  v
